@@ -1,0 +1,25 @@
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\bin\Debug\Gaming Dashboard.exe.config
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\bin\Debug\Gaming Dashboard.exe
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\bin\Debug\Gaming Dashboard.pdb
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\bin\Debug\Guna.UI2.dll
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\obj\Debug\Gaming Dashboard.csprojAssemblyReference.cache
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\obj\Debug\Gaming_Dashboard.Form1.resources
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\obj\Debug\Gaming_Dashboard.Properties.Resources.resources
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\obj\Debug\Gaming Dashboard.csproj.GenerateResource.cache
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\obj\Debug\Gaming Dashboard.csproj.CoreCompileInputs.cache
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\obj\Debug\Gaming Dashboard.csproj.CopyComplete
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\obj\Debug\Gaming Dashboard.exe
+E:\Source Code Visual Stduio 2019\Gaming Dashboard\obj\Debug\Gaming Dashboard.pdb
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\bin\Debug\Gaming Dashboard.exe.config
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\bin\Debug\Gaming Dashboard.exe
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\bin\Debug\Gaming Dashboard.pdb
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\bin\Debug\Guna.UI2.dll
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming Dashboard.csproj.AssemblyReference.cache
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming_Dashboard.Form1.resources
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming_Dashboard.Properties.Resources.resources
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming Dashboard.csproj.GenerateResource.cache
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming D.91463031.Up2Date
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming Dashboard.exe
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming Dashboard.pdb
+C:\Users\TAMATER\Downloads\Game-Dashboard-GabiBox-main\Game-Dashboard-GabiBox-main\obj\Debug\Gaming Dashboard.exe.config
