@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/28gXTCwn/project.jpg" width="500" alt="My Photo" style="border-radius:500%">
+  <img src="https://i.postimg.cc/28gXTCwn/project.jpg" width="1500" alt="My Photo" style="border-radius:1500%">
 </p>
 
 # 🎮 Game Dashboard (C# + Guna UI)
